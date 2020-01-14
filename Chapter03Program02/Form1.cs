@@ -23,7 +23,7 @@ namespace Chapter03Program02
             bool flag;
             decimal operand1;
             decimal operand2;
-            decimal answer;
+            decimal answer
 
             //input set
             //Check first input...
@@ -84,7 +84,7 @@ namespace Chapter03Program02
             }
 
             //Process step
-            answer = operand1 / operand2;
+            answer = 2 + operand1 * operand2 + 5;
             //Display step
             txtResult.Text = operand1.ToString() + " divided by " +
                             operand2.ToString() +
