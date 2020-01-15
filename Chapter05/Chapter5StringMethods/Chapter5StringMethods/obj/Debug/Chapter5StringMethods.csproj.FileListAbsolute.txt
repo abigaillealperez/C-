@@ -1,0 +1,9 @@
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.csprojAssemblyReference.cache
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.Form1.resources
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.Properties.Resources.resources
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.csproj.GenerateResource.cache
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.exe.config
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.exe
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.pdb
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.exe
+C:\01ALP\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.pdb
